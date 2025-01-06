@@ -6,6 +6,9 @@
     "node": ">=20.15",
     "pnpm": ">=9.15"
   },
+  "engines": {
+    "node": ">=18.17 <=22"
+  },
   "packageManager": "pnpm@9.15.1",
   "scripts": {
     "prepare": "node scripts/prepare.mjs",
